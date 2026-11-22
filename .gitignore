@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+#files
+classifier/models/
+rag/chroma_db/
+data/raw/
